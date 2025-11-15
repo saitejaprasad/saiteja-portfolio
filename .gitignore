@@ -1,0 +1,28 @@
+# Dependencies - NEVER commit these!
+node_modules/
+*/node_modules/
+**/node_modules/
+
+# Environment files - contains secrets!
+.env
+*/.env
+**/.env
+.env.local
+.env.production
+
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
