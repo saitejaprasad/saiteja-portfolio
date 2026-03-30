@@ -39,7 +39,8 @@ const Footer = () => {
               SaiTeja Prasad
             </h3>
             <p className="text-gray-400">
-              Web Developer | Backend Enthusiast | React Craftsman
+              Web Developer | Data Analyst | Machine Learning Enthusiast |
+              Backend Enthusiast | React Craftsman
             </p>
           </div>
           <div>

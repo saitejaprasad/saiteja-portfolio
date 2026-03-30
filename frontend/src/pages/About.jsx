@@ -14,8 +14,8 @@ const About = () => {
             <p className="text-lg text-gray-300 mb-4">
               I'm SaiTeja Prasad Sunkara, a curious and hands-on learner with a
               passion for technology, data, and problem-solving. Alongside my
-              web development skills in Node.js, Express, and React, I've gained
-              a strong foundation in business analytics and data science,
+              web development, data analytics, machine learning, skills. I've
+              gained a strong foundation in business analytics and data science,
               applying insights to drive smarter decisions.
             </p>
             <p className="text-lg text-gray-300 mb-4">
@@ -41,6 +41,7 @@ const About = () => {
                   Backend Development
                 </h3>
                 <ul className="space-y-2 text-gray-300">
+                  <li>• FastAPI</li>
                   <li>• Node.js & Express</li>
                   <li>• MongoDB & PostgreSQL</li>
                   <li>• RESTful APIs</li>
@@ -74,8 +75,9 @@ const About = () => {
                   Data & Analytics
                 </h3>
                 <ul className="space-y-2 text-gray-300">
-                  <li>• Data Science</li>
+                  <li>• Data Analysis</li>
                   <li>• Business Analytics</li>
+                  <li>• Machine Learning</li>
                   <li>• Problem Solving</li>
                   <li>• .NET Framework</li>
                 </ul>

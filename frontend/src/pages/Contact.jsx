@@ -12,7 +12,8 @@ const Contact = () => {
           <h1 className="text-5xl font-bold mb-8 text-center">Get In Touch</h1>
           <p className="text-xl text-gray-400 text-center mb-12">
             I'm always open to collaboration, feedback, or just a friendly chat
-            about code. Reach out through any of the platforms below!
+            about innovations and technologies. Reach out through any of the
+            platforms below!
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
