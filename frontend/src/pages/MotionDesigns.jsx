@@ -8,7 +8,7 @@ const MotionDesigns = () => {
 
   useEffect(() => {
     api
-      .get("/projects?category=motion-designs")
+      .get("/projects?category=motion-design")
       .then((res) => {
         setMotions(res.data);
         setLoading(false);

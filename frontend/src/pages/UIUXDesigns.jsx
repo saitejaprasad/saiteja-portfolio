@@ -8,7 +8,7 @@ const UIUXDesigns = () => {
 
   useEffect(() => {
     api
-      .get("/projects?category=ui-ux-designs")
+      .get("/projects?category=ui-ux-design")
       .then((res) => {
         setDesigns(res.data);
         setLoading(false);

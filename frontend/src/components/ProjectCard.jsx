@@ -116,6 +116,8 @@ const ProjectCard = ({ project }) => {
 
 export default ProjectCard;
 
+// export default ProjectCard;
+
 // import { motion } from "framer-motion";
 // import { Link } from "react-router-dom";
 // import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
