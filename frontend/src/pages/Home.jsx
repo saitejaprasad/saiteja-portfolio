@@ -66,8 +66,8 @@ const Home = () => {
             {/* Tagline */}
             <p className="text-xl md:text-2xl text-gray-300 mb-8">
               {/* Web Developer | Backend Enthusiast | React Craftsman */}
-              Data Analyst | Machine Learning Enthusiast | Former Full-Stack
-              Developer
+              Healthcare Data Analyst | Revenue Cycle Management | Clinical
+              Analytics | Machine Learning Enthusiast
             </p>
 
             {/* Buttons */}

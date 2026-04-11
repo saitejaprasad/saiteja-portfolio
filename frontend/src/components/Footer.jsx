@@ -39,8 +39,7 @@ const Footer = () => {
               SaiTeja Prasad
             </h3>
             <p className="text-gray-400">
-              Data Analyst | Machine Learning Enthusiast | Former Full-Stack
-              Developer
+              Healthcare Data Analyst | Machine Learning Enthusiast
               {/* Web Developer | Data Analyst | Machine Learning Enthusiast |
               Backend Enthusiast | React Craftsman */}
             </p>
